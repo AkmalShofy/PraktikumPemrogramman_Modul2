@@ -1,0 +1,8 @@
+a = float(input("Nilai a : "))
+b = float(input("Nilai a : "))
+i = float(input("Nilai a : "))
+j = float(input("Nilai a : "))
+x = float(input("Nilai a : "))
+y = float(input("Nilai a : "))
+h = (a-b)*(i/j)-(x+y)
+print ("Hasil dari a dikurang b dikali dengan i dibagi j dikurang dengan x ditambah y adalah %.3f" % (h))
