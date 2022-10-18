@@ -7,8 +7,8 @@ printf ("Sisi Miring   : ");  scanf ("%f",&b);
 c=sqrt(b*b-a*a);
 d=a+b+c;
 e=c*a/2;
-printf ("Alas     = %.0f cm\n",c);
-printf ("Tinggi   = %.0f cm\n",a);
-printf ("Keliling = %.0f cm\n",d);
+printf ("Alas     = %.0f cm\n",  c);
+printf ("Tinggi   = %.0f cm\n",  a);
+printf ("Keliling = %.0f cm\n",  d);
 printf ("Luas     = %.0f cm^2\n",e);
 }
